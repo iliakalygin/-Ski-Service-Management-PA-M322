@@ -63,7 +63,7 @@ Dieses Repository beinhaltet den Quellcode für die WPF-Applikation des JetStrea
 Klonen Sie das Repository über den folgenden Link über Github Desktop (oder Terminal) zu sich auf Ihren lokalen Rechner.
 
 ```
-https://github.com/iliakalygin/-Ski-Service-Management-PA-M322.git
+https://github.com/iliakalygin/Ski-Service-Management-PA-M322.git
 ```
 
 ### 2. Datenbank erstellen
